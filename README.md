@@ -25,7 +25,7 @@ A portfolio website serves as an online representation of my professional identi
 6. **Admin Panel**: The admin panel allows me to manage the content of the website efficiently, including updating projects and handling contact form submissions.
 
 
-### Follow Me
+## Follow Me
 
 You can find me on various social media platforms. Feel free to connect!
 
