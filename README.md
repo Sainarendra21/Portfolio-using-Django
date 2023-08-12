@@ -23,3 +23,15 @@ A portfolio website serves as an online representation of my professional identi
 5. **Responsive Design**: The website is designed to be responsive and easily accessible across various devices, such as desktops, tablets, and smartphones.
 
 6. **Admin Panel**: The admin panel allows me to manage the content of the website efficiently, including updating projects and handling contact form submissions.
+
+
+### Follow Me
+
+You can find me on various social media platforms. Feel free to connect!
+
+- [Facebook](https://www.facebook.com/sainarendra.nimma/)
+- [Instagram](https://www.instagram.com/sainarendra_01/)
+- [Twitter](https://twitter.com/Sainarendra_01)
+- [LinkedIn](https://www.linkedin.com/in/sainarendra)
+- [GitHub](https://github.com/Sainarendra21)
+
